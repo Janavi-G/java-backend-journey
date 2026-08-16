@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class NumberGuessingGame2 {
+public class NumberGuessingGameTwo {
     public static void main(String[]args){
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
@@ -22,8 +22,6 @@ public class NumberGuessingGame2 {
             }
             i++;
         }while(num1!=num2 && i<5);
-            // System.out.println("The number matches");
-        scanner.close();
-        // System.out.println("The number of attemmpts are over");   
+        scanner.close();  
 }
 }
