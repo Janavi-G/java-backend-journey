@@ -23,7 +23,7 @@ public class MarksAnalyzer {
             }
         }
         for(i = 0;i<5;i++){
-        if(marks[i]>35){
+        if(marks[i]>=35){
             pass++;
         }    
         else{
