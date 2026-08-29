@@ -1,7 +1,8 @@
 public class Friend {
-        String name;
         static int numofFriends;
-    Friend(String name){
+        String name;
+
+        Friend(String name){
         this.name = name;
         numofFriends ++;
     }
