@@ -11,6 +11,5 @@ public class Methodoverriding {
         dog.move();
         cat.move();
         fish.move();
-        
     }
 }

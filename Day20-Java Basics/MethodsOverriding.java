@@ -1,4 +1,4 @@
-public class Inheritance {
+public class MethodsOverriding {
     public static void main(String []args) {
         //Inheritance = one class inherits the attributes and methods 
         // from another class.
@@ -14,6 +14,7 @@ public class Inheritance {
         System.out.println(cat.lives);
         dog.speak();
         cat.speak();
+        dog.eat();
         System.out.println(dog.isAlive);
         System.out.println(cat.isAlive);
         System.out.println(plant.isAlive);
