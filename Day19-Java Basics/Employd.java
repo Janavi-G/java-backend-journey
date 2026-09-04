@@ -1,11 +1,11 @@
-public class Employee {
+public class Employd {
     String name;
     int id;
     double salary;
     String dept;
     double percentage;
 
-    Employee(String name,int id,double salary,String dept){
+    Employd(String name,int id,double salary,String dept){
         this.name = name;
         this.id = id;
         this.salary = salary;
