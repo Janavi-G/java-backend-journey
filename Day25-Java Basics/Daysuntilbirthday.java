@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.util.Scanner;
 import java.time.temporal.ChronoUnit;
-public class Daysuntilbirth {
+public class Daysuntilbirthday {
     public static void main(String []args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter birth month and day of yours respectively");
@@ -12,6 +12,7 @@ public class Daysuntilbirth {
         LocalDate date2 = LocalDate.of(year,month,day);
 
         long days = ChronoUnit.DAYS.between(date, date2);
+ 
         System.out.println("No.of days left is "+days);
         scanner.close();
     }

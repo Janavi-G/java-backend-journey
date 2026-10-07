@@ -1,0 +1,106 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EmployeeTaskManager",
+            "request": "launch",
+            "mainClass": "EmployeeTaskManager",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "SharedCounter",
+            "request": "launch",
+            "mainClass": "SharedCounter",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "TwoThreads",
+            "request": "launch",
+            "mainClass": "TwoThreads",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "CountdownThread",
+            "request": "launch",
+            "mainClass": "CountdownThread",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "NumberThread",
+            "request": "launch",
+            "mainClass": "NumberThread",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeRole",
+            "request": "launch",
+            "mainClass": "EmployeeRole",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "Trafficlight",
+            "request": "launch",
+            "mainClass": "Trafficlight",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "WFC",
+            "request": "launch",
+            "mainClass": "WFC",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "StudentIDLookUp",
+            "request": "launch",
+            "mainClass": "StudentIDLookUp",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "gPairs",
+            "request": "launch",
+            "mainClass": "gPairs",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "Alarmclock",
+            "request": "launch",
+            "mainClass": "Alarmclock",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading",
+            "request": "launch",
+            "mainClass": "Multithreading",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "threading",
+            "request": "launch",
+            "mainClass": "threading",
+            "projectName": "Backend Journey_b8e9ada8"
+        },
+        {
+            "type": "java",
+            "name": "enums",
+            "request": "launch",
+            "mainClass": "enums",
+            "projectName": "Backend Journey_b8e9ada8"
+        }
+    ]
+}

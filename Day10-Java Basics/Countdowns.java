@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Countdown{
+public class Countdowns{
     public static void main(String[]args) throws InterruptedException{
         Scanner scanner = new Scanner(System.in);
         System.out.println("How many seconds to coundown from?:");

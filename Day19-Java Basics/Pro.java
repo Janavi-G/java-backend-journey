@@ -1,18 +1,18 @@
-public class Product {
+public class Pro {
     String name;
     double price;
     int quantity;
     double total;
-    Product(String name){
+    Pro(String name){
         this.name = name;
     }
 
-    Product(String name,double price){
+    Pro(String name,double price){
         this.name = name;
         this.price = price;
     }
 
-    Product(String name,double price,int quantity){
+    Pro(String name,double price,int quantity){
         this.name = name;
         this.price = price;
         this.quantity = quantity;
